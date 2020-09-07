@@ -10,8 +10,9 @@ Then run project
 >python banking.py
 ```
 ## Steps into system
-Menu when you run project
-<img align="center" src="https://github.com/Bazarovinc/Simple_banking_system/blob/master/imagies/menu.jpg" width="50%" heihg="50%"/>
+* Menu when you run project
+
+<img align="center" src="https://github.com/Bazarovinc/Simple_banking_system/blob/master/imagies/menu.jpg" width="20%" heihg="20%"/>
 
 * Create account. When you choose this varinat, system will give you your card number and password
 <img align="center" src="https://github.com/Bazarovinc/fillit/blob/master/imagies/result.jpg" width="50%" heihg="50%"/>
