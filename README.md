@@ -1,5 +1,5 @@
 # Simple_banking_system
-The project from JetBrains Academy. In this project you can see how works banking system. Project made with SQLite database. When you crete account number of card generates with Luhn algoritm. Password generates randomly. All information about acount saves into database.
+The project from [JetBrains Academy](https://www.jetbrains.com/ru-ru/academy/). In this project you can see how works banking system. Project made with SQLite database. When you crete account number of card generates with Luhn algoritm. Password generates randomly. All information about acount saves into database.
 ## Usage
 Change directory
 ```
