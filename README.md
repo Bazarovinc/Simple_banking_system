@@ -15,10 +15,33 @@ Then run project
 <img align="center" src="https://github.com/Bazarovinc/Simple_banking_system/blob/master/imagies/menu.jpg" width="20%" heihg="20%"/>
 
 * Create account. When you choose this varinat, system will give you your card number and password
+
 <img align="center" src="https://github.com/Bazarovinc/Simple_banking_system/blob/master/imagies/create_account.jpg" width="20%" heihg="20%"/>
+
 * Log into. You need to know your card number and password to log into and see info about your card
+
 <img align="center" src="https://github.com/Bazarovinc/Simple_banking_system/blob/master/imagies/log_into.jpg" width="20%" heihg="20%"/>
+
 * Balance
+
 <img align="center" src="https://github.com/Bazarovinc/Simple_banking_system/blob/master/imagies/balance.jpg" width="20%" heihg="20%"/>
+
 * Add income
+
 <img align="center" src="https://github.com/Bazarovinc/Simple_banking_system/blob/master/imagies/add_income.jpg" width="20%" heihg="20%"/>
+
+* Do transfer. You need to know card number, where you want to send your money
+
+<img align="center" src="https://github.com/Bazarovinc/Simple_banking_system/blob/master/imagies/do_transfer.jpg" width="20%" heihg="20%"/>
+
+* Close account
+
+<img align="center" src="https://github.com/Bazarovinc/Simple_banking_system/blob/master/imagies/close_account.jpg" width="20%" heihg="20%"/>
+
+* Log out
+
+<img align="center" src="https://github.com/Bazarovinc/Simple_banking_system/blob/master/imagies/log_out.jpg" width="20%" heihg="20%"/>
+
+* Exit
+
+<img align="center" src="https://github.com/Bazarovinc/Simple_banking_system/blob/master/imagies/exit.jpg" width="20%" heihg="20%"/>
