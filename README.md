@@ -32,7 +32,7 @@ Then run project
 
 * **Do transfer**. You need to know card number, where you want to send your money
 
-<img align="center" src="https://github.com/Bazarovinc/Simple_banking_system/blob/master/imagies/do_transfer.jpg" width="20%" heihg="20%"/>
+<img align="center" src="https://github.com/Bazarovinc/Simple_banking_system/blob/master/imagies/do_transfer.jpg" width="30%" heihg="30%"/>
 
 * **Close account**. Closing your account and deleting all info about your card from database
 
